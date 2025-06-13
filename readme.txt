@@ -6,7 +6,7 @@
 - Internet connection (for browser downloads on first run)
 
 **Clone this repository**
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/jodirjaya/jodi-playwright-test.git
    cd your-repo-name
 
 ## Installation Steps
